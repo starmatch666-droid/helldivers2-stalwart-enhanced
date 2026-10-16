@@ -1,3 +1,10 @@
+> ⚠️ **已停止维护 · 不再继续更新**
+> 本模组不再更新：不会适配后续游戏版本，也不再修复问题。
+> 现有版本与说明保留在此，仅供存档与自行取用；游戏更新后可能失效。
+> This mod is no longer maintained. No further updates or compatibility fixes will be provided.
+
+---
+
 # M-105 盟友：中甲穿透 + 双倍弹药 + 双倍射速
 
 - 穿甲：轻甲 AP2 → 中甲 AP3
